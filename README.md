@@ -1,5 +1,3 @@
-# Airline_Reservation_System
-
 # Airline Reservation System
 
 A GUI-based Airline Reservation System built with Python and Tkinter. This system allows users to book and cancel tickets, view available flights, and check passenger lists for specific flights.
